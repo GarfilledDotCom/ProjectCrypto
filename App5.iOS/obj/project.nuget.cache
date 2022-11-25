@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAAKfe4RKa6CxuMMAPWWWVaYhdADrN1QMwlWWFuu+1cYjf6TqIskpLa5Jye88Vh5frtwBLOhWzblp/Tm8sFs4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blake\\source\\repos\\App5\\App5.iOS\\App5.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.appcenter\\5.0.0\\microsoft.appcenter.5.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.appcenter.analytics\\5.0.0\\microsoft.appcenter.analytics.5.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.appcenter.crashes\\5.0.0\\microsoft.appcenter.crashes.5.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

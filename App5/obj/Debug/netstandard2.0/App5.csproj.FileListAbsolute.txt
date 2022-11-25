@@ -1,0 +1,15 @@
+C:\Users\blake\source\repos\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+C:\Users\blake\source\repos\App5\App5\bin\Debug\netstandard2.0\App5.dll
+C:\Users\blake\source\repos\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.dll
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\refint\App5.dll
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\App5.pdb
+C:\Users\blake\source\repos\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
